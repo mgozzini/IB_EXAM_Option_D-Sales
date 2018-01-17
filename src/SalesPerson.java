@@ -2,7 +2,7 @@
 class SalesPerson  {
 
 private String id;
-private Sales[] salesHistory;
+private Sales[] salesHistory = new Sales[100];
 private int count = 0;
 
 public SalesPerson(String id, Sales[] s, int c) {

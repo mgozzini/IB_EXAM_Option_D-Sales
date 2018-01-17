@@ -1,0 +1,7 @@
+1. An example of a class is an outline for a staff member, and an instance of the class is a specific staff member
+2. different classes such as staff member and manager can all inherit from the broader person class.
+3. having a library is useful because this company has many locations and can use the same administrative program at each location.
+6. Because attributes are private
+9. 102, 2, 2550.40, 5000
+13. Changing salesHistory in the SalesPerson class from an array of Sales to an array of arrays of Sales for each month. That way, the Payroll class could access sales from a specific month and calculate the salary.
+14. The SalesPerson class is able to take inputs and create a SalesPerson for the company, the Sales class adapts to different types of sales entered, and the program itself can be adopted to fit any of the company's locations with ease.
